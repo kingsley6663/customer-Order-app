@@ -1,0 +1,20 @@
+{
+  "name": "WhatsApp Order Entry",
+  "short_name": "OrderApp",
+  "start_url": "./Index.html",
+  "display": "standalone",
+  "background_color": "#efeae2",
+  "theme_color": "#00a884",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3536/3536445.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3536/3536445.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
